@@ -1,0 +1,4 @@
+mamba install matplotlib ipympl -y 
+mamba list jupyterlab
+mamba update jupyterlab_pygments -y 
+# check if the version is 0.3.0
