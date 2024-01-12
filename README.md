@@ -1,4 +1,7 @@
 # nernst_ghk
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/youngsu-Kim/nernst_ghk_test/binder_test)
+
 A Python-based oscilloscope simulator for the Nernst and Goldman-Hodgkin_Katz equations
 
 Based on https://matplotlib.org/stable/gallery/animation/strip_chart.html and lots of consultation with ChatGPT :)
