@@ -1,6 +1,6 @@
 # nernst_ghk
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/youngsu-Kim/nernst_ghk_test/binder_test)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/youngsu-Kim/nernst_ghk_test/binder_test?labpath=index.ipynb)
 
 A Python-based oscilloscope simulator for the Nernst and Goldman-Hodgkin_Katz equations
 
